@@ -5,7 +5,7 @@ matplotlib
 seaborn
 statsmodels
 scikit-learn
-tensorflow
+tensorflow-cpu
 prophet
 plotly
 yfinance
